@@ -23,7 +23,7 @@ public class Bateria {
     
     
    public void mostrarBateriaDatos (){
-       
+           
        JOptionPane.showMessageDialog(null, "Capacidad de la bateria: " +mAh);
        JOptionPane.showMessageDialog(null, "Marca de bateria : " + marca);
        
